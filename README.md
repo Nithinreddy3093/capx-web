@@ -44,7 +44,7 @@ Copy
 Edit
 
 You can copy this directly into your `README.md` file. Just replace `<repository-URL>` and `[GitHub Repository Link](#)` with the appropriate links!
-
+Live Application:https://capx-nithinreddy.netlify.app/
 
 
 
